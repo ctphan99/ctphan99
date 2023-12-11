@@ -1,4 +1,3 @@
-# Sandy_Phan
 ### Welcome to my Github 👋
 
 <a href="#">
