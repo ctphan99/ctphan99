@@ -3,7 +3,7 @@
 
 <a href="#">
 <img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*2S5QjA4M-zZIZBsn.png" 
-  height="100" width="120">
+  height="500" width="900">
 </a>
 
 <h1 align="center">Hi 👋, I'm Sandy Phan</h1>
