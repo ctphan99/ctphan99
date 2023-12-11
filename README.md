@@ -2,7 +2,7 @@
 ### Welcome to my Github 👋
 
 <a href="#">
-<img align="right" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*2S5QjA4M-zZIZBsn.png">
+<img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*2S5QjA4M-zZIZBsn.png">
 </a>
 
 <h1 align="center">Hi 👋, I'm Sandy Phan</h1>
